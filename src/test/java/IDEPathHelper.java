@@ -1,6 +1,7 @@
 import java.net.URISyntaxException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+
 import static java.util.Objects.requireNonNull;
 
 public class IDEPathHelper {
